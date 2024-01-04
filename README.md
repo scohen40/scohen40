@@ -1,13 +1,13 @@
 ![Sarah's Banner](header.png)
 
 
-<img align="right" alt="Coding" width="400" src="octocat.png"/>
+<!---<img align="right" alt="Coding" width="400" src="octocat.png"/>--->
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scohen40&label=Profile%20views&color=0e75b6&style=flat" alt="scohen40" /> </p>
 
 
-<p align="left">
+<div align="center">
   
   🔭 I’m currently working on [FamilyTraditions](https://github.com/scohen40/familytraditions) Recipe App
   
@@ -24,9 +24,9 @@
   📄 Know about my experiences with my **[Resume](https://drive.google.com/file/d/11Fvs6AS0tIspLn77RpdXBV2Ja99Qp8K4/view)**
   
 
-  ⚡ Fun fact - **My planted garlic cloves are growing and my dogs are THE cutest.**
+  ⚡ Fun fact - **I'm growing garlic for the first time and have two adorable terriers.**
   
-</p>
+</div>
 
 <br>
 
